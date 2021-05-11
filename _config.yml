@@ -29,6 +29,10 @@ instagram_username: schackniss
 linkedin_username: schackniss
 github_username:  schackniss
 
+collections:
+  portfolio:
+    output: true
+
 # Build settings
 theme: minima
 plugins:
