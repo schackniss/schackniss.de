@@ -12,18 +12,18 @@ layout: default
       {{ content }}
     </div>
 
-    <h3 class="post-list-heading">{{ page.list_title | default: "Blog posts" }}</h3>
+    <h3 class="post-list-heading">{{ page.list_title | default: "Related posts" }}</h3>
     <ul class="post-list">
     {% assign filtered_posts = site.posts | where: 'project', page.project %}
       {%- for post in filtered_posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h4>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
+        </h4>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
