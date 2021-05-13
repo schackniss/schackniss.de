@@ -36,6 +36,7 @@ collections:
 header_pages:
   - about.md
   - projects.md
+  - blog.md
 
 # Build settings
 # theme: minima
