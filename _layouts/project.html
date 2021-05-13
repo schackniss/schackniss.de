@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: default
 ---
 <h1>{{ page.title }}</h1>
-<h3>{{ page.description }}</h3>
+<h4>{{ page.description }}</h4>
 
 {{ content }}
 
-<h2>Blog posts</h2>
+<h3>Blog posts</h3>
 <ul>
   {% assign filtered_posts = site.posts | where: 'project', page.short_tag %}
   {% for post in filtered_posts %}
