@@ -33,6 +33,10 @@ collections:
   portfolio:
     output: true
 
+header_pages:
+  - about.md
+  - projects.md
+
 # Build settings
 # theme: minima
 plugins:
