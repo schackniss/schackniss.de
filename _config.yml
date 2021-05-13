@@ -30,7 +30,7 @@ linkedin_username: schackniss
 github_username:  schackniss
 
 collections:
-  portfolio:
+  projects:
     output: true
 
 header_pages:
