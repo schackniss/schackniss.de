@@ -5,10 +5,10 @@ permalink: /projects/
 ---
 
 {% for project in site.projects %}
-  <h2>
+  <h3>
     <a href="{{ project.url }}">
       {{ project.name }}
     </a>
-  </h2>
+  </h3>
   <p>{{ project.description | markdownify }}</p>
 {% endfor %}
