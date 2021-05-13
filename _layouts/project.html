@@ -8,11 +8,11 @@ layout: default
     </header>
   
     <div class="post-content">
-    <h3 class="post-title">{{ page.description | escape }}</h3>
+    <h4 class="post-title">{{ page.description | escape }}</h4>
       {{ content }}
     </div>
 
-    <h2 class="post-list-heading">{{ page.list_title | default: "Blog posts" }}</h2>
+    <h3 class="post-list-heading">{{ page.list_title | default: "Blog posts" }}</h3>
     <ul class="post-list">
     {% assign filtered_posts = site.posts | where: 'project', page.project %}
       {%- for post in filtered_posts -%}
