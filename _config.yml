@@ -22,8 +22,8 @@ title: Johannes Schackniß
 email: johannes@schackniss.de
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website and portfolio - under construction
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://schackniss.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: schackniss
 instagram_username: schackniss
 linkedin_username: schackniss
