@@ -18,4 +18,4 @@ Entwicklung eines Lichtweckers mit Uhren- und Alarmfunktion (Software)
 
 ### References
 <a id="1">[1]</a>
-J. Schackniß, "Entwicklung eines Lichtweckers mit Uhren- und Alarmfunktion (Software): Studienarbeit I" Duale Hochschule Baden-Württemberg Mannheim, Mannheim, 2021. [Online]. Available: [https://​schackniss.de​/​downloads/​lichtwecker/​project-​thesis.pdf](https://​schackniss.de​/​downloads/​lichtwecker/​project-​thesis.pdf)
+J. Schackniß, "Entwicklung eines Lichtweckers mit Uhren- und Alarmfunktion (Software): Studienarbeit I" Duale Hochschule Baden-Württemberg Mannheim, Mannheim, 2021. [Online]. Available: [https://​schackniss.de​/​downloads/​lichtwecker/​project-​thesis.pdf](/downloads/lichtwecker/project-thesis.pdf)
