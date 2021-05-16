@@ -12,6 +12,12 @@ layout: default
       {{ content }}
     </div>
 
+    {% if discussion %}
+    <h4>
+      ▶ <a href="https://github.com/schackniss/schackniss.de/discussions/{{ page.discussion }}"></a> 💬
+    </h4>
+    {% endif %}
+
     {% assign filtered_posts = site.posts | where: 'project', page.project %}
     {%- if filtered_posts.size > 0 -%}
     <h3 class="post-list-heading">{{ page.list_title | default: "Related posts" }}</h3>
