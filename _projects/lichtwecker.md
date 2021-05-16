@@ -3,6 +3,7 @@ layout: project
 title: ESP32 light alarm clock ☀️⏰
 description: Waking up by the sunrise ☀️ with your favourite song 🎵.
 project: lichtwecker
+discussion: 10
 ---
 ## Project thesis
 The wake up light alam clock project started as a thesis at the DHBW Mannheim, as part of my electrical engineering studies.
