@@ -13,9 +13,7 @@ layout: default
     </div>
 
     {% if page.discussion %}
-    <h4>
-      ▶ <a href="https://github.com/schackniss/schackniss.de/discussions/{{ page.discussion }}"></a> 💬
-    </h4>
+    <a href="https://github.com/schackniss/schackniss.de/discussions/{{ page.discussion }}"></a> 💬
     {% endif %}
 
     {% assign filtered_posts = site.posts | where: 'project', page.project %}
