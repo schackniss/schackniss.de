@@ -22,4 +22,4 @@ J. Schackniß, "Entwicklung eines Lichtweckers mit Uhren- und Alarmfunktion (Sof
 
 ---
 
-### ▶ [Join discussion](https://github.com/schackniss/schackniss.de/discussions/10) 💬
+#### ▶ [Join discussion](https://github.com/schackniss/schackniss.de/discussions/10) 💬
