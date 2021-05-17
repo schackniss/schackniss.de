@@ -5,3 +5,7 @@
 - title: Oh My Git!
   description: Oh My Git! is an open source game that introduces players to the popular version control system "Git".
   url: https://ohmygit.org/
+
+- title: Semantic Versioning 2.0.0
+  description:
+  url: https://semver.org/
