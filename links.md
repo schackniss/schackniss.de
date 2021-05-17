@@ -12,7 +12,7 @@ Press `Ctrl` + `F` to search for a specific link.
     <li>
     <h3>
         <a class="post-link" href="{{ link.url }}">
-        &#x1F517 {{ link.title | escape }}
+        🔗 {{ link.title | escape }}
         </a>
     </h3>
     {{ link.description }}
