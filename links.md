@@ -15,7 +15,7 @@ permalink: /links/
     <li>
     <h3>
         <a class="post-link" href="{{ link.url }}">
-        🔗 {{ link.title | escape }}
+        &#x1F517 {{ link.title | escape }}
         </a>
     </h3>
     {{ link.description }}
