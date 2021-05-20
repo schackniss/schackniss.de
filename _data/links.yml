@@ -9,3 +9,7 @@
 - title: Semantic Versioning 2.0.0
   description: In the world of software management there exists a dreaded place called "dependency hell."
   url: https://semver.org/
+
+- title: Sync Ninja
+  description: Sync.Ninja is a tool to autogenerate a tutorial directly from your terminal!
+  url: https://sync.ninja/
