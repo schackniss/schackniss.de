@@ -8,7 +8,7 @@ discussion: 10
 ## Project thesis
 The wake up light alarm clock project started as a thesis at the DHBW Mannheim, as part of my electrical engineering studies.
 
-### Thesis title: 
+### Thesis title
 > Entwicklung eines Lichtweckers mit Uhren- und Alarmfunktion (Software)
 
 ### Abstract
