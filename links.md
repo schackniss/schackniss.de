@@ -11,7 +11,7 @@ Press `Ctrl` + `F` to search for a specific link.
     {%- for link in site.data.links -%}
     <li>
     <h3>
-        <a class="post-link" href="{{ link.url }}">
+        <a class="post-link" href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
         🔗 {{ link.title | escape }}
         </a>
     </h3>
