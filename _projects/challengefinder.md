@@ -22,7 +22,3 @@ The development of the challengefinder started during a hackathon. I continued w
 ### References
 <a id="1">[1]</a>
 J. Schackniß, "Backend-Entwicklung eines kollaborativen Tools zur Definition von Design Challenges: Studienarbeit II" Duale Hochschule Baden-Württemberg Mannheim, Mannheim, 2021. [Online]. Available: https://​schackniss.de​/​downloads/​challengefinder/​project-​thesis.pdf
-
----
-
-#### ▶ [Join discussion](https://github.com/schackniss/schackniss.de/discussions/9) 💬
