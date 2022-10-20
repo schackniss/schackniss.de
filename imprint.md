@@ -4,8 +4,8 @@ title: Impressum
 ---
 ## Angaben gemäß § 5 TMG
 Johannes Schackniß  
-Augartenstraße 112  
-68165 Mannheim  
+Rheindammstraße 46 
+68163 Mannheim  
 
 E-Mail: [johannes@schackniss.de](maillto:johannes@schackniss.de)
 
