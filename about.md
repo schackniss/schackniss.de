@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/images/picture.jpg" width="30%" />
+<img src="/assets/images/picture.jpg" width="30%" alt="profile picture" />
 
 # Hi there,
 
@@ -14,7 +14,7 @@ Before that, I completed my bachelor's degree in ***electrical engineering*** �
 
 My interests are innovation 💡, design thinking 💭, microcontrollers 🎛️ and skiing 🎿. Feel free to have a look at my [projects](/projects/).
 
-[Here](/about/de/) you can find my german about page.
+In case you speak German, have look here: [German 'About' page and CV](/about/de/)
 
 ## Curriculum Vitae
 
@@ -60,4 +60,4 @@ My interests are innovation 💡, design thinking 💭, microcontrollers 🎛️
 
 TODO update cv
 
-#### 📥 [Curriculum Vitae (PDF)](/downloads/cv/cv-en.pdf)
+### 📥 [Curriculum Vitae (PDF)](/downloads/cv/cv-en.pdf)
