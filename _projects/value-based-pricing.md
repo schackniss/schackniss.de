@@ -4,3 +4,10 @@ title: Value-Based-Pricing
 description: Fundamentals of Value-Based-Pricing and Total cost of ownership analysis.
 project: value-based-pricing
 ---
+## Term paper
+
+Controlling in Product Management
+
+### Resources
+
+📥 [Paper (PDF)](/downloads/value-based-pricing/value-based-pricing-paper.pdf)
