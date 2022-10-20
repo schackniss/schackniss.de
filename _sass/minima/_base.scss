@@ -247,8 +247,9 @@ table {
   }
   th {
     // background-color: lighten($grey-color-dark, 3%);
-    background-color: $grey-color-dark;
-    border: 1px solid $grey-color-dark;    ;
+    //background-color: $grey-color-dark;
+    background-color: darken($grey-color-dark, 10%);
+    border: 1px solid $grey-color-light;    ;
     // border: 1px solid darken($grey-color-light, 4%);
     // border-bottom-color: darken($grey-color-light, 12%);
     border-bottom-color: darken($grey-color-light, 12%);
