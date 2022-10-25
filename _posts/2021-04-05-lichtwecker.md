@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ESP32 light alarm clock
+title: Light alarm clock
 description: Project thesis in microcontroller programming using C++ and the ESP32. Waking up by the sunrise with your favorite song.
 ---
 ## Project thesis
