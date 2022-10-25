@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Challengefinder 🔎💡
-description: Great questions ❓ lead to great design and innovation 🚀! If you have a really good design challenge...
+title: Challengefinder
+description: Project thesis in backend development using Go and MongoDB. Great questions lead to great design and innovation! If you have a really good design challenge...
 ---
 The development of the challengefinder started during a hackathon. I continued working on the tool as part of a project thesis at DHBW Mannheim.
 
