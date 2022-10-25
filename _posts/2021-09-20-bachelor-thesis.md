@@ -1,8 +1,7 @@
 ---
-layout: project
+layout: post
 title: Bachelor thesis 🎓
 description: Development of an object type library for integrating a condition monitoring platform into a process control system.
-project: bachelor-thesis
 ---
 ### Thesis title
 >Entwicklung einer Objekttyp-Bibliothek zur Integration einer Zustandsüberwachungsplattform in ein Prozessleitsystem
