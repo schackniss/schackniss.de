@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Personal website 🌐👨‍🎓
+title:  Personal website
 description: My portfolio.
 ---
 ## 2022-10-25 Update
