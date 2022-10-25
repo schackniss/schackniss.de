@@ -58,6 +58,5 @@ In case you speak German, have look here: [German 'About' page and CV](/about/de
 | Microcontrollers | Espressif ESP32, Arduino |
 | Others | Git, Microsoft Visio, MongoDB |
 
-TODO update cv
 
-### 📥 [Curriculum Vitae (PDF)](/downloads/cv/cv-en.pdf)
+ 📥 [Curriculum Vitae (PDF)](/downloads/cv/cv-en.pdf)

@@ -56,6 +56,5 @@ Meine Interessen sind Innovation 💡, Design Thinking 💭, Mikrocontroller �
 | Mikrocontroller | Espressif ESP32, Arduino |
 | Sonstige | Git, Microsoft Visio, MongoDB |
 
-TODO update cv
 
-#### 📥 [Lebenslauf (PDF)](/downloads/cv/cv-de.pdf)
+📥 [Lebenslauf (PDF)](/downloads/cv/cv-de.pdf)
