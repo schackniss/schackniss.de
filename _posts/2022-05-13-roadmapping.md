@@ -1,8 +1,7 @@
 ---
-layout: project
+layout: post
 title: Roadmapping
 description: Fundamentals, process and layers of content regarding roadmapping.
-project: roadmapping
 ---
 ## Term paper
 
