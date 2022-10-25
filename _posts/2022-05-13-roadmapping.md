@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Roadmapping
-description: Fundamentals, process and layers of content regarding roadmapping.
+description: Term paper for the lecture "Product Planning and Support". Fundamentals, process and layers of content regarding roadmapping.
 ---
 ## Term paper
 
