@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Projects
+permalink: /projects/
 ---
 
 {%- if site.posts.size > 0 -%}
@@ -15,9 +15,11 @@ permalink: /blog/
             {{ post.title | escape }}
           </a>
         </h2>
+        <p>{{ post.description | markdownify }}</p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        <hr>
       </li>
       {%- endfor -%}
     </ul>
