@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ESP32 light alarm clock ☀️⏰
-description: Waking up by the sunrise ☀️ with your favorite song 🎵.
+title: ESP32 light alarm clock
+description: Project thesis in microcontroller programming using C++ and the ESP32. Waking up by the sunrise with your favorite song.
 ---
 ## Project thesis
 The wake up light alarm clock project started as a thesis at the DHBW Mannheim, as part of my electrical engineering studies.
