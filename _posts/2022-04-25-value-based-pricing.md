@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Value-Based-Pricing
-description: Fundamentals of Value-Based-Pricing and Total cost of ownership analysis.
+description: Term paper for the lecture "Controlling in Product Management". Fundamentals of Value-Based-Pricing and Total cost of ownership analysis.
 ---
 ## Term paper
 
